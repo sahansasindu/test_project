@@ -9,7 +9,7 @@ const PORT = 3001;
 
 // Test route
 app.get("/", (req, res) => {
-  res.status(200).send("Express server is running 🚀");
+  res.status(200).send("Express server is running 1🚀");
 });
 
 // Start server
