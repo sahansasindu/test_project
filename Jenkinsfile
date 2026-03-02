@@ -39,7 +39,7 @@ pipeline {
     agent any 
 
     environment {
-        IMAGE_NAME = "sahansasindu/nodeapp"
+        IMAGE_NAME = "sahansasindu/nodeapp1"
     }
 
     stages {
